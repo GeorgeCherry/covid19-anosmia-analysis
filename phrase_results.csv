@@ -1,0 +1,1409 @@
+date,trend_index,geo_id,eu_id,phrase,phrase_id,year_week
+2019-12-28,2,US,US,loss of smell,a,2019_52
+2019-12-29,2,US,US,loss of smell,a,2019_52
+2019-12-30,2,US,US,loss of smell,a,2019_1
+2019-12-31,1,US,US,loss of smell,a,2019_1
+2020-01-01,3,US,US,loss of smell,a,2020_1
+2020-01-02,1,US,US,loss of smell,a,2020_1
+2020-01-03,1,US,US,loss of smell,a,2020_1
+2020-01-04,1,US,US,loss of smell,a,2020_1
+2020-01-05,1,US,US,loss of smell,a,2020_1
+2020-01-06,2,US,US,loss of smell,a,2020_2
+2020-01-07,3,US,US,loss of smell,a,2020_2
+2020-01-08,2,US,US,loss of smell,a,2020_2
+2020-01-09,4,US,US,loss of smell,a,2020_2
+2020-01-10,2,US,US,loss of smell,a,2020_2
+2020-01-11,1,US,US,loss of smell,a,2020_2
+2020-01-12,2,US,US,loss of smell,a,2020_2
+2020-01-13,2,US,US,loss of smell,a,2020_3
+2020-01-14,2,US,US,loss of smell,a,2020_3
+2020-01-15,1,US,US,loss of smell,a,2020_3
+2020-01-16,2,US,US,loss of smell,a,2020_3
+2020-01-17,1,US,US,loss of smell,a,2020_3
+2020-01-18,1,US,US,loss of smell,a,2020_3
+2020-01-19,3,US,US,loss of smell,a,2020_3
+2020-01-20,1,US,US,loss of smell,a,2020_4
+2020-01-21,3,US,US,loss of smell,a,2020_4
+2020-01-22,2,US,US,loss of smell,a,2020_4
+2020-01-23,1,US,US,loss of smell,a,2020_4
+2020-01-24,1,US,US,loss of smell,a,2020_4
+2020-01-25,2,US,US,loss of smell,a,2020_4
+2020-01-26,1,US,US,loss of smell,a,2020_4
+2020-01-27,1,US,US,loss of smell,a,2020_5
+2020-01-28,1,US,US,loss of smell,a,2020_5
+2020-01-29,2,US,US,loss of smell,a,2020_5
+2020-01-30,2,US,US,loss of smell,a,2020_5
+2020-01-31,2,US,US,loss of smell,a,2020_5
+2020-02-01,1,US,US,loss of smell,a,2020_5
+2020-02-02,1,US,US,loss of smell,a,2020_5
+2020-02-03,1,US,US,loss of smell,a,2020_6
+2020-02-04,2,US,US,loss of smell,a,2020_6
+2020-02-05,3,US,US,loss of smell,a,2020_6
+2020-02-06,2,US,US,loss of smell,a,2020_6
+2020-02-07,1,US,US,loss of smell,a,2020_6
+2020-02-08,1,US,US,loss of smell,a,2020_6
+2020-02-09,1,US,US,loss of smell,a,2020_6
+2020-02-10,1,US,US,loss of smell,a,2020_7
+2020-02-11,1,US,US,loss of smell,a,2020_7
+2020-02-12,1,US,US,loss of smell,a,2020_7
+2020-02-13,2,US,US,loss of smell,a,2020_7
+2020-02-14,1,US,US,loss of smell,a,2020_7
+2020-02-15,1,US,US,loss of smell,a,2020_7
+2020-02-16,2,US,US,loss of smell,a,2020_7
+2020-02-17,3,US,US,loss of smell,a,2020_8
+2020-02-18,2,US,US,loss of smell,a,2020_8
+2020-02-19,1,US,US,loss of smell,a,2020_8
+2020-02-20,2,US,US,loss of smell,a,2020_8
+2020-02-21,1,US,US,loss of smell,a,2020_8
+2020-02-22,2,US,US,loss of smell,a,2020_8
+2020-02-23,1,US,US,loss of smell,a,2020_8
+2020-02-24,2,US,US,loss of smell,a,2020_9
+2020-02-25,1,US,US,loss of smell,a,2020_9
+2020-02-26,1,US,US,loss of smell,a,2020_9
+2020-02-27,2,US,US,loss of smell,a,2020_9
+2020-02-28,2,US,US,loss of smell,a,2020_9
+2020-02-29,2,US,US,loss of smell,a,2020_9
+2020-03-01,1,US,US,loss of smell,a,2020_9
+2020-03-02,2,US,US,loss of smell,a,2020_10
+2020-03-03,2,US,US,loss of smell,a,2020_10
+2020-03-04,1,US,US,loss of smell,a,2020_10
+2020-03-05,2,US,US,loss of smell,a,2020_10
+2020-03-06,1,US,US,loss of smell,a,2020_10
+2020-03-07,2,US,US,loss of smell,a,2020_10
+2020-03-08,2,US,US,loss of smell,a,2020_10
+2020-03-09,2,US,US,loss of smell,a,2020_11
+2020-03-10,1,US,US,loss of smell,a,2020_11
+2020-03-11,3,US,US,loss of smell,a,2020_11
+2020-03-12,1,US,US,loss of smell,a,2020_11
+2020-03-13,2,US,US,loss of smell,a,2020_11
+2020-03-14,2,US,US,loss of smell,a,2020_11
+2020-03-15,3,US,US,loss of smell,a,2020_11
+2020-03-16,4,US,US,loss of smell,a,2020_12
+2020-03-17,4,US,US,loss of smell,a,2020_12
+2020-03-18,6,US,US,loss of smell,a,2020_12
+2020-03-19,7,US,US,loss of smell,a,2020_12
+2020-03-20,7,US,US,loss of smell,a,2020_12
+2020-03-21,13,US,US,loss of smell,a,2020_12
+2020-03-22,32,US,US,loss of smell,a,2020_12
+2020-03-23,100,US,US,loss of smell,a,2020_13
+2020-03-24,76,US,US,loss of smell,a,2020_13
+2019-12-28,5,US,US,lost sense of smell,b,2019_52
+2019-12-29,4,US,US,lost sense of smell,b,2019_52
+2019-12-30,8,US,US,lost sense of smell,b,2019_1
+2019-12-31,7,US,US,lost sense of smell,b,2019_1
+2020-01-01,6,US,US,lost sense of smell,b,2020_1
+2020-01-02,0,US,US,lost sense of smell,b,2020_1
+2020-01-03,6,US,US,lost sense of smell,b,2020_1
+2020-01-04,4,US,US,lost sense of smell,b,2020_1
+2020-01-05,7,US,US,lost sense of smell,b,2020_1
+2020-01-06,4,US,US,lost sense of smell,b,2020_2
+2020-01-07,8,US,US,lost sense of smell,b,2020_2
+2020-01-08,8,US,US,lost sense of smell,b,2020_2
+2020-01-09,0,US,US,lost sense of smell,b,2020_2
+2020-01-10,0,US,US,lost sense of smell,b,2020_2
+2020-01-11,4,US,US,lost sense of smell,b,2020_2
+2020-01-12,4,US,US,lost sense of smell,b,2020_2
+2020-01-13,0,US,US,lost sense of smell,b,2020_3
+2020-01-14,3,US,US,lost sense of smell,b,2020_3
+2020-01-15,4,US,US,lost sense of smell,b,2020_3
+2020-01-16,4,US,US,lost sense of smell,b,2020_3
+2020-01-17,4,US,US,lost sense of smell,b,2020_3
+2020-01-18,4,US,US,lost sense of smell,b,2020_3
+2020-01-19,0,US,US,lost sense of smell,b,2020_3
+2020-01-20,8,US,US,lost sense of smell,b,2020_4
+2020-01-21,4,US,US,lost sense of smell,b,2020_4
+2020-01-22,8,US,US,lost sense of smell,b,2020_4
+2020-01-23,4,US,US,lost sense of smell,b,2020_4
+2020-01-24,0,US,US,lost sense of smell,b,2020_4
+2020-01-25,0,US,US,lost sense of smell,b,2020_4
+2020-01-26,0,US,US,lost sense of smell,b,2020_4
+2020-01-27,4,US,US,lost sense of smell,b,2020_5
+2020-01-28,4,US,US,lost sense of smell,b,2020_5
+2020-01-29,0,US,US,lost sense of smell,b,2020_5
+2020-01-30,0,US,US,lost sense of smell,b,2020_5
+2020-01-31,4,US,US,lost sense of smell,b,2020_5
+2020-02-01,0,US,US,lost sense of smell,b,2020_5
+2020-02-02,4,US,US,lost sense of smell,b,2020_5
+2020-02-03,7,US,US,lost sense of smell,b,2020_6
+2020-02-04,11,US,US,lost sense of smell,b,2020_6
+2020-02-05,4,US,US,lost sense of smell,b,2020_6
+2020-02-06,0,US,US,lost sense of smell,b,2020_6
+2020-02-07,0,US,US,lost sense of smell,b,2020_6
+2020-02-08,4,US,US,lost sense of smell,b,2020_6
+2020-02-09,7,US,US,lost sense of smell,b,2020_6
+2020-02-10,5,US,US,lost sense of smell,b,2020_7
+2020-02-11,5,US,US,lost sense of smell,b,2020_7
+2020-02-12,4,US,US,lost sense of smell,b,2020_7
+2020-02-13,0,US,US,lost sense of smell,b,2020_7
+2020-02-14,6,US,US,lost sense of smell,b,2020_7
+2020-02-15,4,US,US,lost sense of smell,b,2020_7
+2020-02-16,4,US,US,lost sense of smell,b,2020_7
+2020-02-17,0,US,US,lost sense of smell,b,2020_8
+2020-02-18,4,US,US,lost sense of smell,b,2020_8
+2020-02-19,0,US,US,lost sense of smell,b,2020_8
+2020-02-20,6,US,US,lost sense of smell,b,2020_8
+2020-02-21,4,US,US,lost sense of smell,b,2020_8
+2020-02-22,4,US,US,lost sense of smell,b,2020_8
+2020-02-23,9,US,US,lost sense of smell,b,2020_8
+2020-02-24,4,US,US,lost sense of smell,b,2020_9
+2020-02-25,7,US,US,lost sense of smell,b,2020_9
+2020-02-26,3,US,US,lost sense of smell,b,2020_9
+2020-02-27,4,US,US,lost sense of smell,b,2020_9
+2020-02-28,0,US,US,lost sense of smell,b,2020_9
+2020-02-29,4,US,US,lost sense of smell,b,2020_9
+2020-03-01,0,US,US,lost sense of smell,b,2020_9
+2020-03-02,4,US,US,lost sense of smell,b,2020_10
+2020-03-03,0,US,US,lost sense of smell,b,2020_10
+2020-03-04,4,US,US,lost sense of smell,b,2020_10
+2020-03-05,0,US,US,lost sense of smell,b,2020_10
+2020-03-06,4,US,US,lost sense of smell,b,2020_10
+2020-03-07,4,US,US,lost sense of smell,b,2020_10
+2020-03-08,8,US,US,lost sense of smell,b,2020_10
+2020-03-09,4,US,US,lost sense of smell,b,2020_11
+2020-03-10,4,US,US,lost sense of smell,b,2020_11
+2020-03-11,3,US,US,lost sense of smell,b,2020_11
+2020-03-12,3,US,US,lost sense of smell,b,2020_11
+2020-03-13,4,US,US,lost sense of smell,b,2020_11
+2020-03-14,4,US,US,lost sense of smell,b,2020_11
+2020-03-15,7,US,US,lost sense of smell,b,2020_11
+2020-03-16,11,US,US,lost sense of smell,b,2020_12
+2020-03-17,9,US,US,lost sense of smell,b,2020_12
+2020-03-18,7,US,US,lost sense of smell,b,2020_12
+2020-03-19,12,US,US,lost sense of smell,b,2020_12
+2020-03-20,10,US,US,lost sense of smell,b,2020_12
+2020-03-21,20,US,US,lost sense of smell,b,2020_12
+2020-03-22,37,US,US,lost sense of smell,b,2020_12
+2020-03-23,100,US,US,lost sense of smell,b,2020_13
+2020-03-24,58,US,US,lost sense of smell,b,2020_13
+2019-12-28,0,US,US,no sense of smell,c,2019_52
+2019-12-29,28,US,US,no sense of smell,c,2019_52
+2019-12-30,0,US,US,no sense of smell,c,2019_1
+2019-12-31,18,US,US,no sense of smell,c,2019_1
+2020-01-01,19,US,US,no sense of smell,c,2020_1
+2020-01-02,25,US,US,no sense of smell,c,2020_1
+2020-01-03,0,US,US,no sense of smell,c,2020_1
+2020-01-04,0,US,US,no sense of smell,c,2020_1
+2020-01-05,54,US,US,no sense of smell,c,2020_1
+2020-01-06,16,US,US,no sense of smell,c,2020_2
+2020-01-07,32,US,US,no sense of smell,c,2020_2
+2020-01-08,0,US,US,no sense of smell,c,2020_2
+2020-01-09,16,US,US,no sense of smell,c,2020_2
+2020-01-10,16,US,US,no sense of smell,c,2020_2
+2020-01-11,27,US,US,no sense of smell,c,2020_2
+2020-01-12,0,US,US,no sense of smell,c,2020_2
+2020-01-13,15,US,US,no sense of smell,c,2020_3
+2020-01-14,14,US,US,no sense of smell,c,2020_3
+2020-01-15,30,US,US,no sense of smell,c,2020_3
+2020-01-16,16,US,US,no sense of smell,c,2020_3
+2020-01-17,16,US,US,no sense of smell,c,2020_3
+2020-01-18,0,US,US,no sense of smell,c,2020_3
+2020-01-19,27,US,US,no sense of smell,c,2020_3
+2020-01-20,0,US,US,no sense of smell,c,2020_4
+2020-01-21,0,US,US,no sense of smell,c,2020_4
+2020-01-22,16,US,US,no sense of smell,c,2020_4
+2020-01-23,16,US,US,no sense of smell,c,2020_4
+2020-01-24,32,US,US,no sense of smell,c,2020_4
+2020-01-25,19,US,US,no sense of smell,c,2020_4
+2020-01-26,17,US,US,no sense of smell,c,2020_4
+2020-01-27,30,US,US,no sense of smell,c,2020_5
+2020-01-28,0,US,US,no sense of smell,c,2020_5
+2020-01-29,16,US,US,no sense of smell,c,2020_5
+2020-01-30,0,US,US,no sense of smell,c,2020_5
+2020-01-31,48,US,US,no sense of smell,c,2020_5
+2020-02-01,0,US,US,no sense of smell,c,2020_5
+2020-02-02,37,US,US,no sense of smell,c,2020_5
+2020-02-03,0,US,US,no sense of smell,c,2020_6
+2020-02-04,16,US,US,no sense of smell,c,2020_6
+2020-02-05,0,US,US,no sense of smell,c,2020_6
+2020-02-06,16,US,US,no sense of smell,c,2020_6
+2020-02-07,0,US,US,no sense of smell,c,2020_6
+2020-02-08,0,US,US,no sense of smell,c,2020_6
+2020-02-09,0,US,US,no sense of smell,c,2020_6
+2020-02-10,0,US,US,no sense of smell,c,2020_7
+2020-02-11,0,US,US,no sense of smell,c,2020_7
+2020-02-12,46,US,US,no sense of smell,c,2020_7
+2020-02-13,0,US,US,no sense of smell,c,2020_7
+2020-02-14,16,US,US,no sense of smell,c,2020_7
+2020-02-15,18,US,US,no sense of smell,c,2020_7
+2020-02-16,18,US,US,no sense of smell,c,2020_7
+2020-02-17,0,US,US,no sense of smell,c,2020_8
+2020-02-18,0,US,US,no sense of smell,c,2020_8
+2020-02-19,23,US,US,no sense of smell,c,2020_8
+2020-02-20,15,US,US,no sense of smell,c,2020_8
+2020-02-21,15,US,US,no sense of smell,c,2020_8
+2020-02-22,0,US,US,no sense of smell,c,2020_8
+2020-02-23,0,US,US,no sense of smell,c,2020_8
+2020-02-24,0,US,US,no sense of smell,c,2020_9
+2020-02-25,0,US,US,no sense of smell,c,2020_9
+2020-02-26,0,US,US,no sense of smell,c,2020_9
+2020-02-27,0,US,US,no sense of smell,c,2020_9
+2020-02-28,15,US,US,no sense of smell,c,2020_9
+2020-02-29,0,US,US,no sense of smell,c,2020_9
+2020-03-01,18,US,US,no sense of smell,c,2020_9
+2020-03-02,0,US,US,no sense of smell,c,2020_10
+2020-03-03,15,US,US,no sense of smell,c,2020_10
+2020-03-04,14,US,US,no sense of smell,c,2020_10
+2020-03-05,15,US,US,no sense of smell,c,2020_10
+2020-03-06,15,US,US,no sense of smell,c,2020_10
+2020-03-07,0,US,US,no sense of smell,c,2020_10
+2020-03-08,35,US,US,no sense of smell,c,2020_10
+2020-03-09,15,US,US,no sense of smell,c,2020_11
+2020-03-10,15,US,US,no sense of smell,c,2020_11
+2020-03-11,15,US,US,no sense of smell,c,2020_11
+2020-03-12,14,US,US,no sense of smell,c,2020_11
+2020-03-13,15,US,US,no sense of smell,c,2020_11
+2020-03-14,18,US,US,no sense of smell,c,2020_11
+2020-03-15,25,US,US,no sense of smell,c,2020_11
+2020-03-16,15,US,US,no sense of smell,c,2020_12
+2020-03-17,37,US,US,no sense of smell,c,2020_12
+2020-03-18,30,US,US,no sense of smell,c,2020_12
+2020-03-19,59,US,US,no sense of smell,c,2020_12
+2020-03-20,22,US,US,no sense of smell,c,2020_12
+2020-03-21,99,US,US,no sense of smell,c,2020_12
+2020-03-22,100,US,US,no sense of smell,c,2020_12
+2020-03-23,96,US,US,no sense of smell,c,2020_13
+2020-03-24,96,US,US,no sense of smell,c,2020_13
+2019-12-28,8,US,US,can't smell,d,2019_52
+2019-12-29,21,US,US,can't smell,d,2019_52
+2019-12-30,25,US,US,can't smell,d,2019_1
+2019-12-31,10,US,US,can't smell,d,2019_1
+2020-01-01,25,US,US,can't smell,d,2020_1
+2020-01-02,34,US,US,can't smell,d,2020_1
+2020-01-03,26,US,US,can't smell,d,2020_1
+2020-01-04,32,US,US,can't smell,d,2020_1
+2020-01-05,21,US,US,can't smell,d,2020_1
+2020-01-06,9,US,US,can't smell,d,2020_2
+2020-01-07,21,US,US,can't smell,d,2020_2
+2020-01-08,21,US,US,can't smell,d,2020_2
+2020-01-09,12,US,US,can't smell,d,2020_2
+2020-01-10,21,US,US,can't smell,d,2020_2
+2020-01-11,29,US,US,can't smell,d,2020_2
+2020-01-12,21,US,US,can't smell,d,2020_2
+2020-01-13,30,US,US,can't smell,d,2020_3
+2020-01-14,24,US,US,can't smell,d,2020_3
+2020-01-15,15,US,US,can't smell,d,2020_3
+2020-01-16,31,US,US,can't smell,d,2020_3
+2020-01-17,19,US,US,can't smell,d,2020_3
+2020-01-18,21,US,US,can't smell,d,2020_3
+2020-01-19,26,US,US,can't smell,d,2020_3
+2020-01-20,31,US,US,can't smell,d,2020_4
+2020-01-21,23,US,US,can't smell,d,2020_4
+2020-01-22,11,US,US,can't smell,d,2020_4
+2020-01-23,14,US,US,can't smell,d,2020_4
+2020-01-24,18,US,US,can't smell,d,2020_4
+2020-01-25,16,US,US,can't smell,d,2020_4
+2020-01-26,27,US,US,can't smell,d,2020_4
+2020-01-27,26,US,US,can't smell,d,2020_5
+2020-01-28,20,US,US,can't smell,d,2020_5
+2020-01-29,31,US,US,can't smell,d,2020_5
+2020-01-30,28,US,US,can't smell,d,2020_5
+2020-01-31,21,US,US,can't smell,d,2020_5
+2020-02-01,26,US,US,can't smell,d,2020_5
+2020-02-02,27,US,US,can't smell,d,2020_5
+2020-02-03,23,US,US,can't smell,d,2020_6
+2020-02-04,20,US,US,can't smell,d,2020_6
+2020-02-05,20,US,US,can't smell,d,2020_6
+2020-02-06,17,US,US,can't smell,d,2020_6
+2020-02-07,24,US,US,can't smell,d,2020_6
+2020-02-08,16,US,US,can't smell,d,2020_6
+2020-02-09,24,US,US,can't smell,d,2020_6
+2020-02-10,13,US,US,can't smell,d,2020_7
+2020-02-11,30,US,US,can't smell,d,2020_7
+2020-02-12,13,US,US,can't smell,d,2020_7
+2020-02-13,22,US,US,can't smell,d,2020_7
+2020-02-14,23,US,US,can't smell,d,2020_7
+2020-02-15,18,US,US,can't smell,d,2020_7
+2020-02-16,34,US,US,can't smell,d,2020_7
+2020-02-17,26,US,US,can't smell,d,2020_8
+2020-02-18,20,US,US,can't smell,d,2020_8
+2020-02-19,24,US,US,can't smell,d,2020_8
+2020-02-20,30,US,US,can't smell,d,2020_8
+2020-02-21,20,US,US,can't smell,d,2020_8
+2020-02-22,18,US,US,can't smell,d,2020_8
+2020-02-23,34,US,US,can't smell,d,2020_8
+2020-02-24,26,US,US,can't smell,d,2020_9
+2020-02-25,16,US,US,can't smell,d,2020_9
+2020-02-26,25,US,US,can't smell,d,2020_9
+2020-02-27,17,US,US,can't smell,d,2020_9
+2020-02-28,20,US,US,can't smell,d,2020_9
+2020-02-29,23,US,US,can't smell,d,2020_9
+2020-03-01,15,US,US,can't smell,d,2020_9
+2020-03-02,21,US,US,can't smell,d,2020_10
+2020-03-03,27,US,US,can't smell,d,2020_10
+2020-03-04,25,US,US,can't smell,d,2020_10
+2020-03-05,15,US,US,can't smell,d,2020_10
+2020-03-06,20,US,US,can't smell,d,2020_10
+2020-03-07,18,US,US,can't smell,d,2020_10
+2020-03-08,20,US,US,can't smell,d,2020_10
+2020-03-09,16,US,US,can't smell,d,2020_11
+2020-03-10,11,US,US,can't smell,d,2020_11
+2020-03-11,34,US,US,can't smell,d,2020_11
+2020-03-12,17,US,US,can't smell,d,2020_11
+2020-03-13,24,US,US,can't smell,d,2020_11
+2020-03-14,25,US,US,can't smell,d,2020_11
+2020-03-15,20,US,US,can't smell,d,2020_11
+2020-03-16,19,US,US,can't smell,d,2020_12
+2020-03-17,30,US,US,can't smell,d,2020_12
+2020-03-18,49,US,US,can't smell,d,2020_12
+2020-03-19,41,US,US,can't smell,d,2020_12
+2020-03-20,50,US,US,can't smell,d,2020_12
+2020-03-21,57,US,US,can't smell,d,2020_12
+2020-03-22,75,US,US,can't smell,d,2020_12
+2020-03-23,89,US,US,can't smell,d,2020_13
+2020-03-24,100,US,US,can't smell,d,2020_13
+2019-12-28,2,GB,UK,loss of smell,a,2019_52
+2019-12-29,1,GB,UK,loss of smell,a,2019_52
+2019-12-30,2,GB,UK,loss of smell,a,2019_1
+2019-12-31,2,GB,UK,loss of smell,a,2019_1
+2020-01-01,0,GB,UK,loss of smell,a,2020_1
+2020-01-02,2,GB,UK,loss of smell,a,2020_1
+2020-01-03,2,GB,UK,loss of smell,a,2020_1
+2020-01-04,1,GB,UK,loss of smell,a,2020_1
+2020-01-05,2,GB,UK,loss of smell,a,2020_1
+2020-01-06,1,GB,UK,loss of smell,a,2020_2
+2020-01-07,3,GB,UK,loss of smell,a,2020_2
+2020-01-08,2,GB,UK,loss of smell,a,2020_2
+2020-01-09,1,GB,UK,loss of smell,a,2020_2
+2020-01-10,1,GB,UK,loss of smell,a,2020_2
+2020-01-11,2,GB,UK,loss of smell,a,2020_2
+2020-01-12,1,GB,UK,loss of smell,a,2020_2
+2020-01-13,1,GB,UK,loss of smell,a,2020_3
+2020-01-14,2,GB,UK,loss of smell,a,2020_3
+2020-01-15,1,GB,UK,loss of smell,a,2020_3
+2020-01-16,1,GB,UK,loss of smell,a,2020_3
+2020-01-17,1,GB,UK,loss of smell,a,2020_3
+2020-01-18,2,GB,UK,loss of smell,a,2020_3
+2020-01-19,2,GB,UK,loss of smell,a,2020_3
+2020-01-20,2,GB,UK,loss of smell,a,2020_4
+2020-01-21,2,GB,UK,loss of smell,a,2020_4
+2020-01-22,1,GB,UK,loss of smell,a,2020_4
+2020-01-23,2,GB,UK,loss of smell,a,2020_4
+2020-01-24,1,GB,UK,loss of smell,a,2020_4
+2020-01-25,1,GB,UK,loss of smell,a,2020_4
+2020-01-26,2,GB,UK,loss of smell,a,2020_4
+2020-01-27,2,GB,UK,loss of smell,a,2020_5
+2020-01-28,1,GB,UK,loss of smell,a,2020_5
+2020-01-29,3,GB,UK,loss of smell,a,2020_5
+2020-01-30,3,GB,UK,loss of smell,a,2020_5
+2020-01-31,1,GB,UK,loss of smell,a,2020_5
+2020-02-01,1,GB,UK,loss of smell,a,2020_5
+2020-02-02,2,GB,UK,loss of smell,a,2020_5
+2020-02-03,2,GB,UK,loss of smell,a,2020_6
+2020-02-04,1,GB,UK,loss of smell,a,2020_6
+2020-02-05,2,GB,UK,loss of smell,a,2020_6
+2020-02-06,1,GB,UK,loss of smell,a,2020_6
+2020-02-07,1,GB,UK,loss of smell,a,2020_6
+2020-02-08,1,GB,UK,loss of smell,a,2020_6
+2020-02-09,3,GB,UK,loss of smell,a,2020_6
+2020-02-10,1,GB,UK,loss of smell,a,2020_7
+2020-02-11,3,GB,UK,loss of smell,a,2020_7
+2020-02-12,1,GB,UK,loss of smell,a,2020_7
+2020-02-13,1,GB,UK,loss of smell,a,2020_7
+2020-02-14,1,GB,UK,loss of smell,a,2020_7
+2020-02-15,2,GB,UK,loss of smell,a,2020_7
+2020-02-16,2,GB,UK,loss of smell,a,2020_7
+2020-02-17,2,GB,UK,loss of smell,a,2020_8
+2020-02-18,3,GB,UK,loss of smell,a,2020_8
+2020-02-19,1,GB,UK,loss of smell,a,2020_8
+2020-02-20,2,GB,UK,loss of smell,a,2020_8
+2020-02-21,0,GB,UK,loss of smell,a,2020_8
+2020-02-22,0,GB,UK,loss of smell,a,2020_8
+2020-02-23,2,GB,UK,loss of smell,a,2020_8
+2020-02-24,3,GB,UK,loss of smell,a,2020_9
+2020-02-25,0,GB,UK,loss of smell,a,2020_9
+2020-02-26,2,GB,UK,loss of smell,a,2020_9
+2020-02-27,2,GB,UK,loss of smell,a,2020_9
+2020-02-28,1,GB,UK,loss of smell,a,2020_9
+2020-02-29,1,GB,UK,loss of smell,a,2020_9
+2020-03-01,2,GB,UK,loss of smell,a,2020_9
+2020-03-02,3,GB,UK,loss of smell,a,2020_10
+2020-03-03,0,GB,UK,loss of smell,a,2020_10
+2020-03-04,1,GB,UK,loss of smell,a,2020_10
+2020-03-05,1,GB,UK,loss of smell,a,2020_10
+2020-03-06,1,GB,UK,loss of smell,a,2020_10
+2020-03-07,2,GB,UK,loss of smell,a,2020_10
+2020-03-08,2,GB,UK,loss of smell,a,2020_10
+2020-03-09,1,GB,UK,loss of smell,a,2020_11
+2020-03-10,2,GB,UK,loss of smell,a,2020_11
+2020-03-11,2,GB,UK,loss of smell,a,2020_11
+2020-03-12,4,GB,UK,loss of smell,a,2020_11
+2020-03-13,2,GB,UK,loss of smell,a,2020_11
+2020-03-14,4,GB,UK,loss of smell,a,2020_11
+2020-03-15,7,GB,UK,loss of smell,a,2020_11
+2020-03-16,6,GB,UK,loss of smell,a,2020_12
+2020-03-17,7,GB,UK,loss of smell,a,2020_12
+2020-03-18,11,GB,UK,loss of smell,a,2020_12
+2020-03-19,15,GB,UK,loss of smell,a,2020_12
+2020-03-20,17,GB,UK,loss of smell,a,2020_12
+2020-03-21,94,GB,UK,loss of smell,a,2020_12
+2020-03-22,85,GB,UK,loss of smell,a,2020_12
+2020-03-23,100,GB,UK,loss of smell,a,2020_13
+2020-03-24,73,GB,UK,loss of smell,a,2020_13
+2019-12-28,0,GB,UK,lost sense of smell,b,2019_52
+2019-12-29,0,GB,UK,lost sense of smell,b,2019_52
+2019-12-30,0,GB,UK,lost sense of smell,b,2019_1
+2019-12-31,0,GB,UK,lost sense of smell,b,2019_1
+2020-01-01,17,GB,UK,lost sense of smell,b,2020_1
+2020-01-02,8,GB,UK,lost sense of smell,b,2020_1
+2020-01-03,0,GB,UK,lost sense of smell,b,2020_1
+2020-01-04,8,GB,UK,lost sense of smell,b,2020_1
+2020-01-05,0,GB,UK,lost sense of smell,b,2020_1
+2020-01-06,0,GB,UK,lost sense of smell,b,2020_2
+2020-01-07,0,GB,UK,lost sense of smell,b,2020_2
+2020-01-08,0,GB,UK,lost sense of smell,b,2020_2
+2020-01-09,7,GB,UK,lost sense of smell,b,2020_2
+2020-01-10,8,GB,UK,lost sense of smell,b,2020_2
+2020-01-11,0,GB,UK,lost sense of smell,b,2020_2
+2020-01-12,8,GB,UK,lost sense of smell,b,2020_2
+2020-01-13,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-14,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-15,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-16,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-17,8,GB,UK,lost sense of smell,b,2020_3
+2020-01-18,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-19,0,GB,UK,lost sense of smell,b,2020_3
+2020-01-20,0,GB,UK,lost sense of smell,b,2020_4
+2020-01-21,0,GB,UK,lost sense of smell,b,2020_4
+2020-01-22,7,GB,UK,lost sense of smell,b,2020_4
+2020-01-23,0,GB,UK,lost sense of smell,b,2020_4
+2020-01-24,8,GB,UK,lost sense of smell,b,2020_4
+2020-01-25,0,GB,UK,lost sense of smell,b,2020_4
+2020-01-26,0,GB,UK,lost sense of smell,b,2020_4
+2020-01-27,0,GB,UK,lost sense of smell,b,2020_5
+2020-01-28,0,GB,UK,lost sense of smell,b,2020_5
+2020-01-29,7,GB,UK,lost sense of smell,b,2020_5
+2020-01-30,0,GB,UK,lost sense of smell,b,2020_5
+2020-01-31,8,GB,UK,lost sense of smell,b,2020_5
+2020-02-01,0,GB,UK,lost sense of smell,b,2020_5
+2020-02-02,0,GB,UK,lost sense of smell,b,2020_5
+2020-02-03,0,GB,UK,lost sense of smell,b,2020_6
+2020-02-04,0,GB,UK,lost sense of smell,b,2020_6
+2020-02-05,8,GB,UK,lost sense of smell,b,2020_6
+2020-02-06,0,GB,UK,lost sense of smell,b,2020_6
+2020-02-07,0,GB,UK,lost sense of smell,b,2020_6
+2020-02-08,16,GB,UK,lost sense of smell,b,2020_6
+2020-02-09,0,GB,UK,lost sense of smell,b,2020_6
+2020-02-10,7,GB,UK,lost sense of smell,b,2020_7
+2020-02-11,7,GB,UK,lost sense of smell,b,2020_7
+2020-02-12,0,GB,UK,lost sense of smell,b,2020_7
+2020-02-13,0,GB,UK,lost sense of smell,b,2020_7
+2020-02-14,8,GB,UK,lost sense of smell,b,2020_7
+2020-02-15,0,GB,UK,lost sense of smell,b,2020_7
+2020-02-16,0,GB,UK,lost sense of smell,b,2020_7
+2020-02-17,0,GB,UK,lost sense of smell,b,2020_8
+2020-02-18,7,GB,UK,lost sense of smell,b,2020_8
+2020-02-19,11,GB,UK,lost sense of smell,b,2020_8
+2020-02-20,0,GB,UK,lost sense of smell,b,2020_8
+2020-02-21,0,GB,UK,lost sense of smell,b,2020_8
+2020-02-22,8,GB,UK,lost sense of smell,b,2020_8
+2020-02-23,8,GB,UK,lost sense of smell,b,2020_8
+2020-02-24,0,GB,UK,lost sense of smell,b,2020_9
+2020-02-25,0,GB,UK,lost sense of smell,b,2020_9
+2020-02-26,0,GB,UK,lost sense of smell,b,2020_9
+2020-02-27,7,GB,UK,lost sense of smell,b,2020_9
+2020-02-28,0,GB,UK,lost sense of smell,b,2020_9
+2020-02-29,0,GB,UK,lost sense of smell,b,2020_9
+2020-03-01,7,GB,UK,lost sense of smell,b,2020_9
+2020-03-02,11,GB,UK,lost sense of smell,b,2020_10
+2020-03-03,0,GB,UK,lost sense of smell,b,2020_10
+2020-03-04,11,GB,UK,lost sense of smell,b,2020_10
+2020-03-05,0,GB,UK,lost sense of smell,b,2020_10
+2020-03-06,7,GB,UK,lost sense of smell,b,2020_10
+2020-03-07,8,GB,UK,lost sense of smell,b,2020_10
+2020-03-08,0,GB,UK,lost sense of smell,b,2020_10
+2020-03-09,7,GB,UK,lost sense of smell,b,2020_11
+2020-03-10,21,GB,UK,lost sense of smell,b,2020_11
+2020-03-11,28,GB,UK,lost sense of smell,b,2020_11
+2020-03-12,0,GB,UK,lost sense of smell,b,2020_11
+2020-03-13,7,GB,UK,lost sense of smell,b,2020_11
+2020-03-14,0,GB,UK,lost sense of smell,b,2020_11
+2020-03-15,22,GB,UK,lost sense of smell,b,2020_11
+2020-03-16,10,GB,UK,lost sense of smell,b,2020_12
+2020-03-17,27,GB,UK,lost sense of smell,b,2020_12
+2020-03-18,48,GB,UK,lost sense of smell,b,2020_12
+2020-03-19,14,GB,UK,lost sense of smell,b,2020_12
+2020-03-20,62,GB,UK,lost sense of smell,b,2020_12
+2020-03-21,71,GB,UK,lost sense of smell,b,2020_12
+2020-03-22,100,GB,UK,lost sense of smell,b,2020_12
+2020-03-23,59,GB,UK,lost sense of smell,b,2020_13
+2020-03-24,68,GB,UK,lost sense of smell,b,2020_13
+2019-12-28,0,GB,UK,no sense of smell,c,2019_52
+2019-12-29,14,GB,UK,no sense of smell,c,2019_52
+2019-12-30,13,GB,UK,no sense of smell,c,2019_1
+2019-12-31,14,GB,UK,no sense of smell,c,2019_1
+2020-01-01,14,GB,UK,no sense of smell,c,2020_1
+2020-01-02,25,GB,UK,no sense of smell,c,2020_1
+2020-01-03,0,GB,UK,no sense of smell,c,2020_1
+2020-01-04,13,GB,UK,no sense of smell,c,2020_1
+2020-01-05,13,GB,UK,no sense of smell,c,2020_1
+2020-01-06,0,GB,UK,no sense of smell,c,2020_2
+2020-01-07,0,GB,UK,no sense of smell,c,2020_2
+2020-01-08,12,GB,UK,no sense of smell,c,2020_2
+2020-01-09,12,GB,UK,no sense of smell,c,2020_2
+2020-01-10,12,GB,UK,no sense of smell,c,2020_2
+2020-01-11,0,GB,UK,no sense of smell,c,2020_2
+2020-01-12,13,GB,UK,no sense of smell,c,2020_2
+2020-01-13,0,GB,UK,no sense of smell,c,2020_3
+2020-01-14,0,GB,UK,no sense of smell,c,2020_3
+2020-01-15,12,GB,UK,no sense of smell,c,2020_3
+2020-01-16,0,GB,UK,no sense of smell,c,2020_3
+2020-01-17,12,GB,UK,no sense of smell,c,2020_3
+2020-01-18,0,GB,UK,no sense of smell,c,2020_3
+2020-01-19,0,GB,UK,no sense of smell,c,2020_3
+2020-01-20,12,GB,UK,no sense of smell,c,2020_4
+2020-01-21,24,GB,UK,no sense of smell,c,2020_4
+2020-01-22,24,GB,UK,no sense of smell,c,2020_4
+2020-01-23,0,GB,UK,no sense of smell,c,2020_4
+2020-01-24,0,GB,UK,no sense of smell,c,2020_4
+2020-01-25,0,GB,UK,no sense of smell,c,2020_4
+2020-01-26,12,GB,UK,no sense of smell,c,2020_4
+2020-01-27,0,GB,UK,no sense of smell,c,2020_5
+2020-01-28,0,GB,UK,no sense of smell,c,2020_5
+2020-01-29,0,GB,UK,no sense of smell,c,2020_5
+2020-01-30,0,GB,UK,no sense of smell,c,2020_5
+2020-01-31,12,GB,UK,no sense of smell,c,2020_5
+2020-02-01,0,GB,UK,no sense of smell,c,2020_5
+2020-02-02,0,GB,UK,no sense of smell,c,2020_5
+2020-02-03,11,GB,UK,no sense of smell,c,2020_6
+2020-02-04,0,GB,UK,no sense of smell,c,2020_6
+2020-02-05,12,GB,UK,no sense of smell,c,2020_6
+2020-02-06,13,GB,UK,no sense of smell,c,2020_6
+2020-02-07,0,GB,UK,no sense of smell,c,2020_6
+2020-02-08,0,GB,UK,no sense of smell,c,2020_6
+2020-02-09,0,GB,UK,no sense of smell,c,2020_6
+2020-02-10,0,GB,UK,no sense of smell,c,2020_7
+2020-02-11,12,GB,UK,no sense of smell,c,2020_7
+2020-02-12,0,GB,UK,no sense of smell,c,2020_7
+2020-02-13,0,GB,UK,no sense of smell,c,2020_7
+2020-02-14,12,GB,UK,no sense of smell,c,2020_7
+2020-02-15,0,GB,UK,no sense of smell,c,2020_7
+2020-02-16,12,GB,UK,no sense of smell,c,2020_7
+2020-02-17,0,GB,UK,no sense of smell,c,2020_8
+2020-02-18,0,GB,UK,no sense of smell,c,2020_8
+2020-02-19,12,GB,UK,no sense of smell,c,2020_8
+2020-02-20,12,GB,UK,no sense of smell,c,2020_8
+2020-02-21,0,GB,UK,no sense of smell,c,2020_8
+2020-02-22,0,GB,UK,no sense of smell,c,2020_8
+2020-02-23,12,GB,UK,no sense of smell,c,2020_8
+2020-02-24,0,GB,UK,no sense of smell,c,2020_9
+2020-02-25,12,GB,UK,no sense of smell,c,2020_9
+2020-02-26,0,GB,UK,no sense of smell,c,2020_9
+2020-02-27,0,GB,UK,no sense of smell,c,2020_9
+2020-02-28,23,GB,UK,no sense of smell,c,2020_9
+2020-02-29,0,GB,UK,no sense of smell,c,2020_9
+2020-03-01,12,GB,UK,no sense of smell,c,2020_9
+2020-03-02,11,GB,UK,no sense of smell,c,2020_10
+2020-03-03,0,GB,UK,no sense of smell,c,2020_10
+2020-03-04,0,GB,UK,no sense of smell,c,2020_10
+2020-03-05,0,GB,UK,no sense of smell,c,2020_10
+2020-03-06,0,GB,UK,no sense of smell,c,2020_10
+2020-03-07,0,GB,UK,no sense of smell,c,2020_10
+2020-03-08,12,GB,UK,no sense of smell,c,2020_10
+2020-03-09,0,GB,UK,no sense of smell,c,2020_11
+2020-03-10,0,GB,UK,no sense of smell,c,2020_11
+2020-03-11,0,GB,UK,no sense of smell,c,2020_11
+2020-03-12,22,GB,UK,no sense of smell,c,2020_11
+2020-03-13,0,GB,UK,no sense of smell,c,2020_11
+2020-03-14,12,GB,UK,no sense of smell,c,2020_11
+2020-03-15,12,GB,UK,no sense of smell,c,2020_11
+2020-03-16,11,GB,UK,no sense of smell,c,2020_12
+2020-03-17,17,GB,UK,no sense of smell,c,2020_12
+2020-03-18,11,GB,UK,no sense of smell,c,2020_12
+2020-03-19,38,GB,UK,no sense of smell,c,2020_12
+2020-03-20,37,GB,UK,no sense of smell,c,2020_12
+2020-03-21,73,GB,UK,no sense of smell,c,2020_12
+2020-03-22,75,GB,UK,no sense of smell,c,2020_12
+2020-03-23,100,GB,UK,no sense of smell,c,2020_13
+2020-03-24,38,GB,UK,no sense of smell,c,2020_13
+2019-12-28,19,GB,UK,can't smell,d,2019_52
+2019-12-29,39,GB,UK,can't smell,d,2019_52
+2019-12-30,19,GB,UK,can't smell,d,2019_1
+2019-12-31,20,GB,UK,can't smell,d,2019_1
+2020-01-01,19,GB,UK,can't smell,d,2020_1
+2020-01-02,26,GB,UK,can't smell,d,2020_1
+2020-01-03,0,GB,UK,can't smell,d,2020_1
+2020-01-04,18,GB,UK,can't smell,d,2020_1
+2020-01-05,27,GB,UK,can't smell,d,2020_1
+2020-01-06,17,GB,UK,can't smell,d,2020_2
+2020-01-07,0,GB,UK,can't smell,d,2020_2
+2020-01-08,17,GB,UK,can't smell,d,2020_2
+2020-01-09,17,GB,UK,can't smell,d,2020_2
+2020-01-10,17,GB,UK,can't smell,d,2020_2
+2020-01-11,18,GB,UK,can't smell,d,2020_2
+2020-01-12,24,GB,UK,can't smell,d,2020_2
+2020-01-13,16,GB,UK,can't smell,d,2020_3
+2020-01-14,30,GB,UK,can't smell,d,2020_3
+2020-01-15,17,GB,UK,can't smell,d,2020_3
+2020-01-16,34,GB,UK,can't smell,d,2020_3
+2020-01-17,18,GB,UK,can't smell,d,2020_3
+2020-01-18,19,GB,UK,can't smell,d,2020_3
+2020-01-19,0,GB,UK,can't smell,d,2020_3
+2020-01-20,0,GB,UK,can't smell,d,2020_4
+2020-01-21,28,GB,UK,can't smell,d,2020_4
+2020-01-22,17,GB,UK,can't smell,d,2020_4
+2020-01-23,17,GB,UK,can't smell,d,2020_4
+2020-01-24,17,GB,UK,can't smell,d,2020_4
+2020-01-25,18,GB,UK,can't smell,d,2020_4
+2020-01-26,35,GB,UK,can't smell,d,2020_4
+2020-01-27,0,GB,UK,can't smell,d,2020_5
+2020-01-28,26,GB,UK,can't smell,d,2020_5
+2020-01-29,17,GB,UK,can't smell,d,2020_5
+2020-01-30,17,GB,UK,can't smell,d,2020_5
+2020-01-31,17,GB,UK,can't smell,d,2020_5
+2020-02-01,37,GB,UK,can't smell,d,2020_5
+2020-02-02,27,GB,UK,can't smell,d,2020_5
+2020-02-03,32,GB,UK,can't smell,d,2020_6
+2020-02-04,17,GB,UK,can't smell,d,2020_6
+2020-02-05,26,GB,UK,can't smell,d,2020_6
+2020-02-06,0,GB,UK,can't smell,d,2020_6
+2020-02-07,18,GB,UK,can't smell,d,2020_6
+2020-02-08,0,GB,UK,can't smell,d,2020_6
+2020-02-09,0,GB,UK,can't smell,d,2020_6
+2020-02-10,16,GB,UK,can't smell,d,2020_7
+2020-02-11,17,GB,UK,can't smell,d,2020_7
+2020-02-12,17,GB,UK,can't smell,d,2020_7
+2020-02-13,17,GB,UK,can't smell,d,2020_7
+2020-02-14,0,GB,UK,can't smell,d,2020_7
+2020-02-15,33,GB,UK,can't smell,d,2020_7
+2020-02-16,17,GB,UK,can't smell,d,2020_7
+2020-02-17,33,GB,UK,can't smell,d,2020_8
+2020-02-18,16,GB,UK,can't smell,d,2020_8
+2020-02-19,17,GB,UK,can't smell,d,2020_8
+2020-02-20,22,GB,UK,can't smell,d,2020_8
+2020-02-21,34,GB,UK,can't smell,d,2020_8
+2020-02-22,0,GB,UK,can't smell,d,2020_8
+2020-02-23,35,GB,UK,can't smell,d,2020_8
+2020-02-24,24,GB,UK,can't smell,d,2020_9
+2020-02-25,16,GB,UK,can't smell,d,2020_9
+2020-02-26,22,GB,UK,can't smell,d,2020_9
+2020-02-27,16,GB,UK,can't smell,d,2020_9
+2020-02-28,17,GB,UK,can't smell,d,2020_9
+2020-02-29,17,GB,UK,can't smell,d,2020_9
+2020-03-01,17,GB,UK,can't smell,d,2020_9
+2020-03-02,16,GB,UK,can't smell,d,2020_10
+2020-03-03,24,GB,UK,can't smell,d,2020_10
+2020-03-04,38,GB,UK,can't smell,d,2020_10
+2020-03-05,50,GB,UK,can't smell,d,2020_10
+2020-03-06,34,GB,UK,can't smell,d,2020_10
+2020-03-07,18,GB,UK,can't smell,d,2020_10
+2020-03-08,52,GB,UK,can't smell,d,2020_10
+2020-03-09,16,GB,UK,can't smell,d,2020_11
+2020-03-10,47,GB,UK,can't smell,d,2020_11
+2020-03-11,32,GB,UK,can't smell,d,2020_11
+2020-03-12,31,GB,UK,can't smell,d,2020_11
+2020-03-13,25,GB,UK,can't smell,d,2020_11
+2020-03-14,35,GB,UK,can't smell,d,2020_11
+2020-03-15,17,GB,UK,can't smell,d,2020_11
+2020-03-16,24,GB,UK,can't smell,d,2020_12
+2020-03-17,32,GB,UK,can't smell,d,2020_12
+2020-03-18,23,GB,UK,can't smell,d,2020_12
+2020-03-19,37,GB,UK,can't smell,d,2020_12
+2020-03-20,42,GB,UK,can't smell,d,2020_12
+2020-03-21,63,GB,UK,can't smell,d,2020_12
+2020-03-22,100,GB,UK,can't smell,d,2020_12
+2020-03-23,64,GB,UK,can't smell,d,2020_13
+2020-03-24,64,GB,UK,can't smell,d,2020_13
+2019-12-28,0,CA,CA,loss of smell,a,2019_52
+2019-12-29,10,CA,CA,loss of smell,a,2019_52
+2019-12-30,0,CA,CA,loss of smell,a,2019_1
+2019-12-31,0,CA,CA,loss of smell,a,2019_1
+2020-01-01,0,CA,CA,loss of smell,a,2020_1
+2020-01-02,9,CA,CA,loss of smell,a,2020_1
+2020-01-03,9,CA,CA,loss of smell,a,2020_1
+2020-01-04,9,CA,CA,loss of smell,a,2020_1
+2020-01-05,14,CA,CA,loss of smell,a,2020_1
+2020-01-06,8,CA,CA,loss of smell,a,2020_2
+2020-01-07,8,CA,CA,loss of smell,a,2020_2
+2020-01-08,8,CA,CA,loss of smell,a,2020_2
+2020-01-09,0,CA,CA,loss of smell,a,2020_2
+2020-01-10,0,CA,CA,loss of smell,a,2020_2
+2020-01-11,0,CA,CA,loss of smell,a,2020_2
+2020-01-12,0,CA,CA,loss of smell,a,2020_2
+2020-01-13,0,CA,CA,loss of smell,a,2020_3
+2020-01-14,0,CA,CA,loss of smell,a,2020_3
+2020-01-15,8,CA,CA,loss of smell,a,2020_3
+2020-01-16,8,CA,CA,loss of smell,a,2020_3
+2020-01-17,9,CA,CA,loss of smell,a,2020_3
+2020-01-18,0,CA,CA,loss of smell,a,2020_3
+2020-01-19,9,CA,CA,loss of smell,a,2020_3
+2020-01-20,8,CA,CA,loss of smell,a,2020_4
+2020-01-21,8,CA,CA,loss of smell,a,2020_4
+2020-01-22,0,CA,CA,loss of smell,a,2020_4
+2020-01-23,8,CA,CA,loss of smell,a,2020_4
+2020-01-24,9,CA,CA,loss of smell,a,2020_4
+2020-01-25,10,CA,CA,loss of smell,a,2020_4
+2020-01-26,9,CA,CA,loss of smell,a,2020_4
+2020-01-27,8,CA,CA,loss of smell,a,2020_5
+2020-01-28,0,CA,CA,loss of smell,a,2020_5
+2020-01-29,0,CA,CA,loss of smell,a,2020_5
+2020-01-30,0,CA,CA,loss of smell,a,2020_5
+2020-01-31,9,CA,CA,loss of smell,a,2020_5
+2020-02-01,10,CA,CA,loss of smell,a,2020_5
+2020-02-02,0,CA,CA,loss of smell,a,2020_5
+2020-02-03,0,CA,CA,loss of smell,a,2020_6
+2020-02-04,8,CA,CA,loss of smell,a,2020_6
+2020-02-05,0,CA,CA,loss of smell,a,2020_6
+2020-02-06,0,CA,CA,loss of smell,a,2020_6
+2020-02-07,0,CA,CA,loss of smell,a,2020_6
+2020-02-08,0,CA,CA,loss of smell,a,2020_6
+2020-02-09,19,CA,CA,loss of smell,a,2020_6
+2020-02-10,0,CA,CA,loss of smell,a,2020_7
+2020-02-11,8,CA,CA,loss of smell,a,2020_7
+2020-02-12,8,CA,CA,loss of smell,a,2020_7
+2020-02-13,8,CA,CA,loss of smell,a,2020_7
+2020-02-14,9,CA,CA,loss of smell,a,2020_7
+2020-02-15,10,CA,CA,loss of smell,a,2020_7
+2020-02-16,0,CA,CA,loss of smell,a,2020_7
+2020-02-17,0,CA,CA,loss of smell,a,2020_8
+2020-02-18,8,CA,CA,loss of smell,a,2020_8
+2020-02-19,8,CA,CA,loss of smell,a,2020_8
+2020-02-20,8,CA,CA,loss of smell,a,2020_8
+2020-02-21,9,CA,CA,loss of smell,a,2020_8
+2020-02-22,0,CA,CA,loss of smell,a,2020_8
+2020-02-23,9,CA,CA,loss of smell,a,2020_8
+2020-02-24,0,CA,CA,loss of smell,a,2020_9
+2020-02-25,0,CA,CA,loss of smell,a,2020_9
+2020-02-26,8,CA,CA,loss of smell,a,2020_9
+2020-02-27,0,CA,CA,loss of smell,a,2020_9
+2020-02-28,8,CA,CA,loss of smell,a,2020_9
+2020-02-29,9,CA,CA,loss of smell,a,2020_9
+2020-03-01,12,CA,CA,loss of smell,a,2020_9
+2020-03-02,8,CA,CA,loss of smell,a,2020_10
+2020-03-03,0,CA,CA,loss of smell,a,2020_10
+2020-03-04,0,CA,CA,loss of smell,a,2020_10
+2020-03-05,0,CA,CA,loss of smell,a,2020_10
+2020-03-06,8,CA,CA,loss of smell,a,2020_10
+2020-03-07,0,CA,CA,loss of smell,a,2020_10
+2020-03-08,0,CA,CA,loss of smell,a,2020_10
+2020-03-09,8,CA,CA,loss of smell,a,2020_11
+2020-03-10,7,CA,CA,loss of smell,a,2020_11
+2020-03-11,16,CA,CA,loss of smell,a,2020_11
+2020-03-12,15,CA,CA,loss of smell,a,2020_11
+2020-03-13,0,CA,CA,loss of smell,a,2020_11
+2020-03-14,0,CA,CA,loss of smell,a,2020_11
+2020-03-15,0,CA,CA,loss of smell,a,2020_11
+2020-03-16,15,CA,CA,loss of smell,a,2020_12
+2020-03-17,0,CA,CA,loss of smell,a,2020_12
+2020-03-18,15,CA,CA,loss of smell,a,2020_12
+2020-03-19,0,CA,CA,loss of smell,a,2020_12
+2020-03-20,30,CA,CA,loss of smell,a,2020_12
+2020-03-21,19,CA,CA,loss of smell,a,2020_12
+2020-03-22,36,CA,CA,loss of smell,a,2020_12
+2020-03-23,100,CA,CA,loss of smell,a,2020_13
+2020-03-24,53,CA,CA,loss of smell,a,2020_13
+2019-12-28,0,CA,CA,lost sense of smell,b,2019_52
+2019-12-29,0,CA,CA,lost sense of smell,b,2019_52
+2019-12-30,0,CA,CA,lost sense of smell,b,2019_1
+2019-12-31,0,CA,CA,lost sense of smell,b,2019_1
+2020-01-01,0,CA,CA,lost sense of smell,b,2020_1
+2020-01-02,0,CA,CA,lost sense of smell,b,2020_1
+2020-01-03,0,CA,CA,lost sense of smell,b,2020_1
+2020-01-04,0,CA,CA,lost sense of smell,b,2020_1
+2020-01-05,0,CA,CA,lost sense of smell,b,2020_1
+2020-01-06,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-07,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-08,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-09,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-10,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-11,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-12,0,CA,CA,lost sense of smell,b,2020_2
+2020-01-13,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-14,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-15,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-16,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-17,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-18,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-19,0,CA,CA,lost sense of smell,b,2020_3
+2020-01-20,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-21,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-22,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-23,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-24,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-25,0,CA,CA,lost sense of smell,b,2020_4
+2020-01-26,37,CA,CA,lost sense of smell,b,2020_4
+2020-01-27,0,CA,CA,lost sense of smell,b,2020_5
+2020-01-28,0,CA,CA,lost sense of smell,b,2020_5
+2020-01-29,0,CA,CA,lost sense of smell,b,2020_5
+2020-01-30,0,CA,CA,lost sense of smell,b,2020_5
+2020-01-31,0,CA,CA,lost sense of smell,b,2020_5
+2020-02-01,0,CA,CA,lost sense of smell,b,2020_5
+2020-02-02,0,CA,CA,lost sense of smell,b,2020_5
+2020-02-03,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-04,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-05,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-06,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-07,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-08,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-09,0,CA,CA,lost sense of smell,b,2020_6
+2020-02-10,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-11,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-12,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-13,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-14,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-15,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-16,0,CA,CA,lost sense of smell,b,2020_7
+2020-02-17,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-18,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-19,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-20,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-21,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-22,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-23,0,CA,CA,lost sense of smell,b,2020_8
+2020-02-24,0,CA,CA,lost sense of smell,b,2020_9
+2020-02-25,0,CA,CA,lost sense of smell,b,2020_9
+2020-02-26,32,CA,CA,lost sense of smell,b,2020_9
+2020-02-27,0,CA,CA,lost sense of smell,b,2020_9
+2020-02-28,0,CA,CA,lost sense of smell,b,2020_9
+2020-02-29,0,CA,CA,lost sense of smell,b,2020_9
+2020-03-01,0,CA,CA,lost sense of smell,b,2020_9
+2020-03-02,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-03,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-04,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-05,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-06,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-07,0,CA,CA,lost sense of smell,b,2020_10
+2020-03-08,36,CA,CA,lost sense of smell,b,2020_10
+2020-03-09,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-10,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-11,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-12,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-13,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-14,0,CA,CA,lost sense of smell,b,2020_11
+2020-03-15,37,CA,CA,lost sense of smell,b,2020_11
+2020-03-16,0,CA,CA,lost sense of smell,b,2020_12
+2020-03-17,32,CA,CA,lost sense of smell,b,2020_12
+2020-03-18,0,CA,CA,lost sense of smell,b,2020_12
+2020-03-19,0,CA,CA,lost sense of smell,b,2020_12
+2020-03-20,0,CA,CA,lost sense of smell,b,2020_12
+2020-03-21,35,CA,CA,lost sense of smell,b,2020_12
+2020-03-22,0,CA,CA,lost sense of smell,b,2020_12
+2020-03-23,100,CA,CA,lost sense of smell,b,2020_13
+2020-03-24,61,CA,CA,lost sense of smell,b,2020_13
+2019-12-28,0,CA,CA,no sense of smell,c,2019_52
+2019-12-29,40,CA,CA,no sense of smell,c,2019_52
+2019-12-30,0,CA,CA,no sense of smell,c,2019_1
+2019-12-31,0,CA,CA,no sense of smell,c,2019_1
+2020-01-01,0,CA,CA,no sense of smell,c,2020_1
+2020-01-02,0,CA,CA,no sense of smell,c,2020_1
+2020-01-03,0,CA,CA,no sense of smell,c,2020_1
+2020-01-04,0,CA,CA,no sense of smell,c,2020_1
+2020-01-05,37,CA,CA,no sense of smell,c,2020_1
+2020-01-06,0,CA,CA,no sense of smell,c,2020_2
+2020-01-07,0,CA,CA,no sense of smell,c,2020_2
+2020-01-08,0,CA,CA,no sense of smell,c,2020_2
+2020-01-09,0,CA,CA,no sense of smell,c,2020_2
+2020-01-10,0,CA,CA,no sense of smell,c,2020_2
+2020-01-11,0,CA,CA,no sense of smell,c,2020_2
+2020-01-12,0,CA,CA,no sense of smell,c,2020_2
+2020-01-13,31,CA,CA,no sense of smell,c,2020_3
+2020-01-14,0,CA,CA,no sense of smell,c,2020_3
+2020-01-15,0,CA,CA,no sense of smell,c,2020_3
+2020-01-16,0,CA,CA,no sense of smell,c,2020_3
+2020-01-17,0,CA,CA,no sense of smell,c,2020_3
+2020-01-18,0,CA,CA,no sense of smell,c,2020_3
+2020-01-19,0,CA,CA,no sense of smell,c,2020_3
+2020-01-20,0,CA,CA,no sense of smell,c,2020_4
+2020-01-21,0,CA,CA,no sense of smell,c,2020_4
+2020-01-22,0,CA,CA,no sense of smell,c,2020_4
+2020-01-23,0,CA,CA,no sense of smell,c,2020_4
+2020-01-24,0,CA,CA,no sense of smell,c,2020_4
+2020-01-25,0,CA,CA,no sense of smell,c,2020_4
+2020-01-26,0,CA,CA,no sense of smell,c,2020_4
+2020-01-27,0,CA,CA,no sense of smell,c,2020_5
+2020-01-28,0,CA,CA,no sense of smell,c,2020_5
+2020-01-29,0,CA,CA,no sense of smell,c,2020_5
+2020-01-30,0,CA,CA,no sense of smell,c,2020_5
+2020-01-31,0,CA,CA,no sense of smell,c,2020_5
+2020-02-01,0,CA,CA,no sense of smell,c,2020_5
+2020-02-02,0,CA,CA,no sense of smell,c,2020_5
+2020-02-03,0,CA,CA,no sense of smell,c,2020_6
+2020-02-04,0,CA,CA,no sense of smell,c,2020_6
+2020-02-05,0,CA,CA,no sense of smell,c,2020_6
+2020-02-06,0,CA,CA,no sense of smell,c,2020_6
+2020-02-07,34,CA,CA,no sense of smell,c,2020_6
+2020-02-08,0,CA,CA,no sense of smell,c,2020_6
+2020-02-09,0,CA,CA,no sense of smell,c,2020_6
+2020-02-10,0,CA,CA,no sense of smell,c,2020_7
+2020-02-11,0,CA,CA,no sense of smell,c,2020_7
+2020-02-12,0,CA,CA,no sense of smell,c,2020_7
+2020-02-13,0,CA,CA,no sense of smell,c,2020_7
+2020-02-14,0,CA,CA,no sense of smell,c,2020_7
+2020-02-15,0,CA,CA,no sense of smell,c,2020_7
+2020-02-16,0,CA,CA,no sense of smell,c,2020_7
+2020-02-17,35,CA,CA,no sense of smell,c,2020_8
+2020-02-18,0,CA,CA,no sense of smell,c,2020_8
+2020-02-19,0,CA,CA,no sense of smell,c,2020_8
+2020-02-20,0,CA,CA,no sense of smell,c,2020_8
+2020-02-21,0,CA,CA,no sense of smell,c,2020_8
+2020-02-22,0,CA,CA,no sense of smell,c,2020_8
+2020-02-23,0,CA,CA,no sense of smell,c,2020_8
+2020-02-24,32,CA,CA,no sense of smell,c,2020_9
+2020-02-25,0,CA,CA,no sense of smell,c,2020_9
+2020-02-26,31,CA,CA,no sense of smell,c,2020_9
+2020-02-27,0,CA,CA,no sense of smell,c,2020_9
+2020-02-28,0,CA,CA,no sense of smell,c,2020_9
+2020-02-29,0,CA,CA,no sense of smell,c,2020_9
+2020-03-01,36,CA,CA,no sense of smell,c,2020_9
+2020-03-02,0,CA,CA,no sense of smell,c,2020_10
+2020-03-03,0,CA,CA,no sense of smell,c,2020_10
+2020-03-04,0,CA,CA,no sense of smell,c,2020_10
+2020-03-05,33,CA,CA,no sense of smell,c,2020_10
+2020-03-06,0,CA,CA,no sense of smell,c,2020_10
+2020-03-07,36,CA,CA,no sense of smell,c,2020_10
+2020-03-08,0,CA,CA,no sense of smell,c,2020_10
+2020-03-09,0,CA,CA,no sense of smell,c,2020_11
+2020-03-10,30,CA,CA,no sense of smell,c,2020_11
+2020-03-11,0,CA,CA,no sense of smell,c,2020_11
+2020-03-12,0,CA,CA,no sense of smell,c,2020_11
+2020-03-13,0,CA,CA,no sense of smell,c,2020_11
+2020-03-14,0,CA,CA,no sense of smell,c,2020_11
+2020-03-15,0,CA,CA,no sense of smell,c,2020_11
+2020-03-16,0,CA,CA,no sense of smell,c,2020_12
+2020-03-17,0,CA,CA,no sense of smell,c,2020_12
+2020-03-18,31,CA,CA,no sense of smell,c,2020_12
+2020-03-19,31,CA,CA,no sense of smell,c,2020_12
+2020-03-20,0,CA,CA,no sense of smell,c,2020_12
+2020-03-21,34,CA,CA,no sense of smell,c,2020_12
+2020-03-22,100,CA,CA,no sense of smell,c,2020_12
+2020-03-23,28,CA,CA,no sense of smell,c,2020_13
+2020-03-24,29,CA,CA,no sense of smell,c,2020_13
+2019-12-28,54,CA,CA,can't smell,d,2019_52
+2019-12-29,0,CA,CA,can't smell,d,2019_52
+2019-12-30,0,CA,CA,can't smell,d,2019_1
+2019-12-31,77,CA,CA,can't smell,d,2019_1
+2020-01-01,55,CA,CA,can't smell,d,2020_1
+2020-01-02,49,CA,CA,can't smell,d,2020_1
+2020-01-03,47,CA,CA,can't smell,d,2020_1
+2020-01-04,0,CA,CA,can't smell,d,2020_1
+2020-01-05,99,CA,CA,can't smell,d,2020_1
+2020-01-06,44,CA,CA,can't smell,d,2020_2
+2020-01-07,46,CA,CA,can't smell,d,2020_2
+2020-01-08,0,CA,CA,can't smell,d,2020_2
+2020-01-09,0,CA,CA,can't smell,d,2020_2
+2020-01-10,0,CA,CA,can't smell,d,2020_2
+2020-01-11,51,CA,CA,can't smell,d,2020_2
+2020-01-12,48,CA,CA,can't smell,d,2020_2
+2020-01-13,42,CA,CA,can't smell,d,2020_3
+2020-01-14,41,CA,CA,can't smell,d,2020_3
+2020-01-15,44,CA,CA,can't smell,d,2020_3
+2020-01-16,45,CA,CA,can't smell,d,2020_3
+2020-01-17,0,CA,CA,can't smell,d,2020_3
+2020-01-18,52,CA,CA,can't smell,d,2020_3
+2020-01-19,51,CA,CA,can't smell,d,2020_3
+2020-01-20,0,CA,CA,can't smell,d,2020_4
+2020-01-21,46,CA,CA,can't smell,d,2020_4
+2020-01-22,0,CA,CA,can't smell,d,2020_4
+2020-01-23,0,CA,CA,can't smell,d,2020_4
+2020-01-24,0,CA,CA,can't smell,d,2020_4
+2020-01-25,52,CA,CA,can't smell,d,2020_4
+2020-01-26,49,CA,CA,can't smell,d,2020_4
+2020-01-27,44,CA,CA,can't smell,d,2020_5
+2020-01-28,45,CA,CA,can't smell,d,2020_5
+2020-01-29,46,CA,CA,can't smell,d,2020_5
+2020-01-30,0,CA,CA,can't smell,d,2020_5
+2020-01-31,48,CA,CA,can't smell,d,2020_5
+2020-02-01,78,CA,CA,can't smell,d,2020_5
+2020-02-02,51,CA,CA,can't smell,d,2020_5
+2020-02-03,0,CA,CA,can't smell,d,2020_6
+2020-02-04,46,CA,CA,can't smell,d,2020_6
+2020-02-05,47,CA,CA,can't smell,d,2020_6
+2020-02-06,46,CA,CA,can't smell,d,2020_6
+2020-02-07,0,CA,CA,can't smell,d,2020_6
+2020-02-08,0,CA,CA,can't smell,d,2020_6
+2020-02-09,52,CA,CA,can't smell,d,2020_6
+2020-02-10,0,CA,CA,can't smell,d,2020_7
+2020-02-11,43,CA,CA,can't smell,d,2020_7
+2020-02-12,44,CA,CA,can't smell,d,2020_7
+2020-02-13,91,CA,CA,can't smell,d,2020_7
+2020-02-14,0,CA,CA,can't smell,d,2020_7
+2020-02-15,52,CA,CA,can't smell,d,2020_7
+2020-02-16,0,CA,CA,can't smell,d,2020_7
+2020-02-17,0,CA,CA,can't smell,d,2020_8
+2020-02-18,88,CA,CA,can't smell,d,2020_8
+2020-02-19,44,CA,CA,can't smell,d,2020_8
+2020-02-20,45,CA,CA,can't smell,d,2020_8
+2020-02-21,0,CA,CA,can't smell,d,2020_8
+2020-02-22,100,CA,CA,can't smell,d,2020_8
+2020-02-23,49,CA,CA,can't smell,d,2020_8
+2020-02-24,43,CA,CA,can't smell,d,2020_9
+2020-02-25,44,CA,CA,can't smell,d,2020_9
+2020-02-26,0,CA,CA,can't smell,d,2020_9
+2020-02-27,43,CA,CA,can't smell,d,2020_9
+2020-02-28,0,CA,CA,can't smell,d,2020_9
+2020-02-29,49,CA,CA,can't smell,d,2020_9
+2020-03-01,49,CA,CA,can't smell,d,2020_9
+2020-03-02,0,CA,CA,can't smell,d,2020_10
+2020-03-03,42,CA,CA,can't smell,d,2020_10
+2020-03-04,0,CA,CA,can't smell,d,2020_10
+2020-03-05,43,CA,CA,can't smell,d,2020_10
+2020-03-06,0,CA,CA,can't smell,d,2020_10
+2020-03-07,48,CA,CA,can't smell,d,2020_10
+2020-03-08,95,CA,CA,can't smell,d,2020_10
+2020-03-09,42,CA,CA,can't smell,d,2020_11
+2020-03-10,0,CA,CA,can't smell,d,2020_11
+2020-03-11,0,CA,CA,can't smell,d,2020_11
+2020-03-12,0,CA,CA,can't smell,d,2020_11
+2020-03-13,0,CA,CA,can't smell,d,2020_11
+2020-03-14,0,CA,CA,can't smell,d,2020_11
+2020-03-15,0,CA,CA,can't smell,d,2020_11
+2020-03-16,0,CA,CA,can't smell,d,2020_12
+2020-03-17,41,CA,CA,can't smell,d,2020_12
+2020-03-18,41,CA,CA,can't smell,d,2020_12
+2020-03-19,42,CA,CA,can't smell,d,2020_12
+2020-03-20,81,CA,CA,can't smell,d,2020_12
+2020-03-21,68,CA,CA,can't smell,d,2020_12
+2020-03-22,45,CA,CA,can't smell,d,2020_12
+2020-03-23,37,CA,CA,can't smell,d,2020_13
+2020-03-24,79,CA,CA,can't smell,d,2020_13
+2019-12-28,0,IE,IE,loss of smell,a,2019_52
+2019-12-29,0,IE,IE,loss of smell,a,2019_52
+2019-12-30,0,IE,IE,loss of smell,a,2019_1
+2019-12-31,0,IE,IE,loss of smell,a,2019_1
+2020-01-01,0,IE,IE,loss of smell,a,2020_1
+2020-01-02,0,IE,IE,loss of smell,a,2020_1
+2020-01-03,0,IE,IE,loss of smell,a,2020_1
+2020-01-04,0,IE,IE,loss of smell,a,2020_1
+2020-01-05,0,IE,IE,loss of smell,a,2020_1
+2020-01-06,0,IE,IE,loss of smell,a,2020_2
+2020-01-07,0,IE,IE,loss of smell,a,2020_2
+2020-01-08,0,IE,IE,loss of smell,a,2020_2
+2020-01-09,0,IE,IE,loss of smell,a,2020_2
+2020-01-10,28,IE,IE,loss of smell,a,2020_2
+2020-01-11,0,IE,IE,loss of smell,a,2020_2
+2020-01-12,0,IE,IE,loss of smell,a,2020_2
+2020-01-13,0,IE,IE,loss of smell,a,2020_3
+2020-01-14,0,IE,IE,loss of smell,a,2020_3
+2020-01-15,0,IE,IE,loss of smell,a,2020_3
+2020-01-16,0,IE,IE,loss of smell,a,2020_3
+2020-01-17,0,IE,IE,loss of smell,a,2020_3
+2020-01-18,0,IE,IE,loss of smell,a,2020_3
+2020-01-19,0,IE,IE,loss of smell,a,2020_3
+2020-01-20,0,IE,IE,loss of smell,a,2020_4
+2020-01-21,0,IE,IE,loss of smell,a,2020_4
+2020-01-22,0,IE,IE,loss of smell,a,2020_4
+2020-01-23,0,IE,IE,loss of smell,a,2020_4
+2020-01-24,0,IE,IE,loss of smell,a,2020_4
+2020-01-25,0,IE,IE,loss of smell,a,2020_4
+2020-01-26,0,IE,IE,loss of smell,a,2020_4
+2020-01-27,25,IE,IE,loss of smell,a,2020_5
+2020-01-28,0,IE,IE,loss of smell,a,2020_5
+2020-01-29,0,IE,IE,loss of smell,a,2020_5
+2020-01-30,0,IE,IE,loss of smell,a,2020_5
+2020-01-31,27,IE,IE,loss of smell,a,2020_5
+2020-02-01,0,IE,IE,loss of smell,a,2020_5
+2020-02-02,0,IE,IE,loss of smell,a,2020_5
+2020-02-03,0,IE,IE,loss of smell,a,2020_6
+2020-02-04,0,IE,IE,loss of smell,a,2020_6
+2020-02-05,0,IE,IE,loss of smell,a,2020_6
+2020-02-06,0,IE,IE,loss of smell,a,2020_6
+2020-02-07,0,IE,IE,loss of smell,a,2020_6
+2020-02-08,0,IE,IE,loss of smell,a,2020_6
+2020-02-09,0,IE,IE,loss of smell,a,2020_6
+2020-02-10,25,IE,IE,loss of smell,a,2020_7
+2020-02-11,0,IE,IE,loss of smell,a,2020_7
+2020-02-12,0,IE,IE,loss of smell,a,2020_7
+2020-02-13,0,IE,IE,loss of smell,a,2020_7
+2020-02-14,0,IE,IE,loss of smell,a,2020_7
+2020-02-15,28,IE,IE,loss of smell,a,2020_7
+2020-02-16,0,IE,IE,loss of smell,a,2020_7
+2020-02-17,26,IE,IE,loss of smell,a,2020_8
+2020-02-18,0,IE,IE,loss of smell,a,2020_8
+2020-02-19,0,IE,IE,loss of smell,a,2020_8
+2020-02-20,0,IE,IE,loss of smell,a,2020_8
+2020-02-21,27,IE,IE,loss of smell,a,2020_8
+2020-02-22,0,IE,IE,loss of smell,a,2020_8
+2020-02-23,0,IE,IE,loss of smell,a,2020_8
+2020-02-24,0,IE,IE,loss of smell,a,2020_9
+2020-02-25,0,IE,IE,loss of smell,a,2020_9
+2020-02-26,0,IE,IE,loss of smell,a,2020_9
+2020-02-27,26,IE,IE,loss of smell,a,2020_9
+2020-02-28,0,IE,IE,loss of smell,a,2020_9
+2020-02-29,28,IE,IE,loss of smell,a,2020_9
+2020-03-01,0,IE,IE,loss of smell,a,2020_9
+2020-03-02,26,IE,IE,loss of smell,a,2020_10
+2020-03-03,0,IE,IE,loss of smell,a,2020_10
+2020-03-04,26,IE,IE,loss of smell,a,2020_10
+2020-03-05,0,IE,IE,loss of smell,a,2020_10
+2020-03-06,27,IE,IE,loss of smell,a,2020_10
+2020-03-07,0,IE,IE,loss of smell,a,2020_10
+2020-03-08,0,IE,IE,loss of smell,a,2020_10
+2020-03-09,0,IE,IE,loss of smell,a,2020_11
+2020-03-10,0,IE,IE,loss of smell,a,2020_11
+2020-03-11,0,IE,IE,loss of smell,a,2020_11
+2020-03-12,0,IE,IE,loss of smell,a,2020_11
+2020-03-13,26,IE,IE,loss of smell,a,2020_11
+2020-03-14,28,IE,IE,loss of smell,a,2020_11
+2020-03-15,0,IE,IE,loss of smell,a,2020_11
+2020-03-16,24,IE,IE,loss of smell,a,2020_12
+2020-03-17,0,IE,IE,loss of smell,a,2020_12
+2020-03-18,24,IE,IE,loss of smell,a,2020_12
+2020-03-19,25,IE,IE,loss of smell,a,2020_12
+2020-03-20,24,IE,IE,loss of smell,a,2020_12
+2020-03-21,68,IE,IE,loss of smell,a,2020_12
+2020-03-22,86,IE,IE,loss of smell,a,2020_12
+2020-03-23,52,IE,IE,loss of smell,a,2020_13
+2020-03-24,100,IE,IE,loss of smell,a,2020_13
+2019-12-28,0,IE,IE,lost sense of smell,b,2019_52
+2019-12-29,0,IE,IE,lost sense of smell,b,2019_52
+2019-12-30,0,IE,IE,lost sense of smell,b,2019_1
+2019-12-31,0,IE,IE,lost sense of smell,b,2019_1
+2020-01-01,0,IE,IE,lost sense of smell,b,2020_1
+2020-01-02,0,IE,IE,lost sense of smell,b,2020_1
+2020-01-03,0,IE,IE,lost sense of smell,b,2020_1
+2020-01-04,0,IE,IE,lost sense of smell,b,2020_1
+2020-01-05,0,IE,IE,lost sense of smell,b,2020_1
+2020-01-06,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-07,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-08,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-09,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-10,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-11,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-12,0,IE,IE,lost sense of smell,b,2020_2
+2020-01-13,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-14,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-15,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-16,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-17,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-18,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-19,0,IE,IE,lost sense of smell,b,2020_3
+2020-01-20,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-21,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-22,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-23,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-24,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-25,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-26,0,IE,IE,lost sense of smell,b,2020_4
+2020-01-27,0,IE,IE,lost sense of smell,b,2020_5
+2020-01-28,0,IE,IE,lost sense of smell,b,2020_5
+2020-01-29,0,IE,IE,lost sense of smell,b,2020_5
+2020-01-30,0,IE,IE,lost sense of smell,b,2020_5
+2020-01-31,0,IE,IE,lost sense of smell,b,2020_5
+2020-02-01,0,IE,IE,lost sense of smell,b,2020_5
+2020-02-02,0,IE,IE,lost sense of smell,b,2020_5
+2020-02-03,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-04,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-05,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-06,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-07,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-08,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-09,0,IE,IE,lost sense of smell,b,2020_6
+2020-02-10,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-11,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-12,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-13,100,IE,IE,lost sense of smell,b,2020_7
+2020-02-14,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-15,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-16,0,IE,IE,lost sense of smell,b,2020_7
+2020-02-17,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-18,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-19,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-20,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-21,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-22,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-23,0,IE,IE,lost sense of smell,b,2020_8
+2020-02-24,0,IE,IE,lost sense of smell,b,2020_9
+2020-02-25,0,IE,IE,lost sense of smell,b,2020_9
+2020-02-26,0,IE,IE,lost sense of smell,b,2020_9
+2020-02-27,0,IE,IE,lost sense of smell,b,2020_9
+2020-02-28,96,IE,IE,lost sense of smell,b,2020_9
+2020-02-29,0,IE,IE,lost sense of smell,b,2020_9
+2020-03-01,0,IE,IE,lost sense of smell,b,2020_9
+2020-03-02,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-03,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-04,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-05,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-06,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-07,0,IE,IE,lost sense of smell,b,2020_10
+2020-03-08,100,IE,IE,lost sense of smell,b,2020_10
+2020-03-09,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-10,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-11,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-12,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-13,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-14,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-15,0,IE,IE,lost sense of smell,b,2020_11
+2020-03-16,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-17,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-18,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-19,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-20,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-21,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-22,0,IE,IE,lost sense of smell,b,2020_12
+2020-03-23,81,IE,IE,lost sense of smell,b,2020_13
+2020-03-24,0,IE,IE,lost sense of smell,b,2020_13
+2019-12-28,0,IE,IE,no sense of smell,c,2019_52
+2019-12-29,0,IE,IE,no sense of smell,c,2019_52
+2019-12-30,0,IE,IE,no sense of smell,c,2019_1
+2019-12-31,0,IE,IE,no sense of smell,c,2019_1
+2020-01-01,0,IE,IE,no sense of smell,c,2020_1
+2020-01-02,92,IE,IE,no sense of smell,c,2020_1
+2020-01-03,0,IE,IE,no sense of smell,c,2020_1
+2020-01-04,0,IE,IE,no sense of smell,c,2020_1
+2020-01-05,0,IE,IE,no sense of smell,c,2020_1
+2020-01-06,0,IE,IE,no sense of smell,c,2020_2
+2020-01-07,0,IE,IE,no sense of smell,c,2020_2
+2020-01-08,0,IE,IE,no sense of smell,c,2020_2
+2020-01-09,0,IE,IE,no sense of smell,c,2020_2
+2020-01-10,0,IE,IE,no sense of smell,c,2020_2
+2020-01-11,0,IE,IE,no sense of smell,c,2020_2
+2020-01-12,0,IE,IE,no sense of smell,c,2020_2
+2020-01-13,0,IE,IE,no sense of smell,c,2020_3
+2020-01-14,0,IE,IE,no sense of smell,c,2020_3
+2020-01-15,0,IE,IE,no sense of smell,c,2020_3
+2020-01-16,0,IE,IE,no sense of smell,c,2020_3
+2020-01-17,0,IE,IE,no sense of smell,c,2020_3
+2020-01-18,0,IE,IE,no sense of smell,c,2020_3
+2020-01-19,0,IE,IE,no sense of smell,c,2020_3
+2020-01-20,0,IE,IE,no sense of smell,c,2020_4
+2020-01-21,0,IE,IE,no sense of smell,c,2020_4
+2020-01-22,0,IE,IE,no sense of smell,c,2020_4
+2020-01-23,92,IE,IE,no sense of smell,c,2020_4
+2020-01-24,0,IE,IE,no sense of smell,c,2020_4
+2020-01-25,0,IE,IE,no sense of smell,c,2020_4
+2020-01-26,0,IE,IE,no sense of smell,c,2020_4
+2020-01-27,0,IE,IE,no sense of smell,c,2020_5
+2020-01-28,0,IE,IE,no sense of smell,c,2020_5
+2020-01-29,0,IE,IE,no sense of smell,c,2020_5
+2020-01-30,0,IE,IE,no sense of smell,c,2020_5
+2020-01-31,0,IE,IE,no sense of smell,c,2020_5
+2020-02-01,0,IE,IE,no sense of smell,c,2020_5
+2020-02-02,0,IE,IE,no sense of smell,c,2020_5
+2020-02-03,0,IE,IE,no sense of smell,c,2020_6
+2020-02-04,92,IE,IE,no sense of smell,c,2020_6
+2020-02-05,94,IE,IE,no sense of smell,c,2020_6
+2020-02-06,0,IE,IE,no sense of smell,c,2020_6
+2020-02-07,0,IE,IE,no sense of smell,c,2020_6
+2020-02-08,0,IE,IE,no sense of smell,c,2020_6
+2020-02-09,0,IE,IE,no sense of smell,c,2020_6
+2020-02-10,0,IE,IE,no sense of smell,c,2020_7
+2020-02-11,0,IE,IE,no sense of smell,c,2020_7
+2020-02-12,0,IE,IE,no sense of smell,c,2020_7
+2020-02-13,0,IE,IE,no sense of smell,c,2020_7
+2020-02-14,0,IE,IE,no sense of smell,c,2020_7
+2020-02-15,0,IE,IE,no sense of smell,c,2020_7
+2020-02-16,0,IE,IE,no sense of smell,c,2020_7
+2020-02-17,0,IE,IE,no sense of smell,c,2020_8
+2020-02-18,0,IE,IE,no sense of smell,c,2020_8
+2020-02-19,0,IE,IE,no sense of smell,c,2020_8
+2020-02-20,0,IE,IE,no sense of smell,c,2020_8
+2020-02-21,0,IE,IE,no sense of smell,c,2020_8
+2020-02-22,0,IE,IE,no sense of smell,c,2020_8
+2020-02-23,0,IE,IE,no sense of smell,c,2020_8
+2020-02-24,0,IE,IE,no sense of smell,c,2020_9
+2020-02-25,0,IE,IE,no sense of smell,c,2020_9
+2020-02-26,0,IE,IE,no sense of smell,c,2020_9
+2020-02-27,0,IE,IE,no sense of smell,c,2020_9
+2020-02-28,0,IE,IE,no sense of smell,c,2020_9
+2020-02-29,0,IE,IE,no sense of smell,c,2020_9
+2020-03-01,0,IE,IE,no sense of smell,c,2020_9
+2020-03-02,0,IE,IE,no sense of smell,c,2020_10
+2020-03-03,0,IE,IE,no sense of smell,c,2020_10
+2020-03-04,0,IE,IE,no sense of smell,c,2020_10
+2020-03-05,0,IE,IE,no sense of smell,c,2020_10
+2020-03-06,0,IE,IE,no sense of smell,c,2020_10
+2020-03-07,0,IE,IE,no sense of smell,c,2020_10
+2020-03-08,0,IE,IE,no sense of smell,c,2020_10
+2020-03-09,0,IE,IE,no sense of smell,c,2020_11
+2020-03-10,0,IE,IE,no sense of smell,c,2020_11
+2020-03-11,0,IE,IE,no sense of smell,c,2020_11
+2020-03-12,0,IE,IE,no sense of smell,c,2020_11
+2020-03-13,0,IE,IE,no sense of smell,c,2020_11
+2020-03-14,0,IE,IE,no sense of smell,c,2020_11
+2020-03-15,0,IE,IE,no sense of smell,c,2020_11
+2020-03-16,86,IE,IE,no sense of smell,c,2020_12
+2020-03-17,0,IE,IE,no sense of smell,c,2020_12
+2020-03-18,0,IE,IE,no sense of smell,c,2020_12
+2020-03-19,0,IE,IE,no sense of smell,c,2020_12
+2020-03-20,0,IE,IE,no sense of smell,c,2020_12
+2020-03-21,94,IE,IE,no sense of smell,c,2020_12
+2020-03-22,100,IE,IE,no sense of smell,c,2020_12
+2020-03-23,0,IE,IE,no sense of smell,c,2020_13
+2020-03-24,0,IE,IE,no sense of smell,c,2020_13
+2019-12-28,0,IE,IE,can't smell,d,2019_52
+2019-12-29,0,IE,IE,can't smell,d,2019_52
+2019-12-30,0,IE,IE,can't smell,d,2019_1
+2019-12-31,0,IE,IE,can't smell,d,2019_1
+2020-01-01,0,IE,IE,can't smell,d,2020_1
+2020-01-02,0,IE,IE,can't smell,d,2020_1
+2020-01-03,0,IE,IE,can't smell,d,2020_1
+2020-01-04,100,IE,IE,can't smell,d,2020_1
+2020-01-05,0,IE,IE,can't smell,d,2020_1
+2020-01-06,0,IE,IE,can't smell,d,2020_2
+2020-01-07,0,IE,IE,can't smell,d,2020_2
+2020-01-08,0,IE,IE,can't smell,d,2020_2
+2020-01-09,0,IE,IE,can't smell,d,2020_2
+2020-01-10,0,IE,IE,can't smell,d,2020_2
+2020-01-11,0,IE,IE,can't smell,d,2020_2
+2020-01-12,0,IE,IE,can't smell,d,2020_2
+2020-01-13,0,IE,IE,can't smell,d,2020_3
+2020-01-14,0,IE,IE,can't smell,d,2020_3
+2020-01-15,0,IE,IE,can't smell,d,2020_3
+2020-01-16,0,IE,IE,can't smell,d,2020_3
+2020-01-17,0,IE,IE,can't smell,d,2020_3
+2020-01-18,0,IE,IE,can't smell,d,2020_3
+2020-01-19,0,IE,IE,can't smell,d,2020_3
+2020-01-20,0,IE,IE,can't smell,d,2020_4
+2020-01-21,0,IE,IE,can't smell,d,2020_4
+2020-01-22,0,IE,IE,can't smell,d,2020_4
+2020-01-23,0,IE,IE,can't smell,d,2020_4
+2020-01-24,0,IE,IE,can't smell,d,2020_4
+2020-01-25,0,IE,IE,can't smell,d,2020_4
+2020-01-26,0,IE,IE,can't smell,d,2020_4
+2020-01-27,0,IE,IE,can't smell,d,2020_5
+2020-01-28,0,IE,IE,can't smell,d,2020_5
+2020-01-29,89,IE,IE,can't smell,d,2020_5
+2020-01-30,0,IE,IE,can't smell,d,2020_5
+2020-01-31,0,IE,IE,can't smell,d,2020_5
+2020-02-01,0,IE,IE,can't smell,d,2020_5
+2020-02-02,0,IE,IE,can't smell,d,2020_5
+2020-02-03,0,IE,IE,can't smell,d,2020_6
+2020-02-04,0,IE,IE,can't smell,d,2020_6
+2020-02-05,0,IE,IE,can't smell,d,2020_6
+2020-02-06,0,IE,IE,can't smell,d,2020_6
+2020-02-07,0,IE,IE,can't smell,d,2020_6
+2020-02-08,0,IE,IE,can't smell,d,2020_6
+2020-02-09,0,IE,IE,can't smell,d,2020_6
+2020-02-10,0,IE,IE,can't smell,d,2020_7
+2020-02-11,0,IE,IE,can't smell,d,2020_7
+2020-02-12,0,IE,IE,can't smell,d,2020_7
+2020-02-13,0,IE,IE,can't smell,d,2020_7
+2020-02-14,0,IE,IE,can't smell,d,2020_7
+2020-02-15,0,IE,IE,can't smell,d,2020_7
+2020-02-16,0,IE,IE,can't smell,d,2020_7
+2020-02-17,0,IE,IE,can't smell,d,2020_8
+2020-02-18,0,IE,IE,can't smell,d,2020_8
+2020-02-19,0,IE,IE,can't smell,d,2020_8
+2020-02-20,0,IE,IE,can't smell,d,2020_8
+2020-02-21,0,IE,IE,can't smell,d,2020_8
+2020-02-22,97,IE,IE,can't smell,d,2020_8
+2020-02-23,0,IE,IE,can't smell,d,2020_8
+2020-02-24,0,IE,IE,can't smell,d,2020_9
+2020-02-25,0,IE,IE,can't smell,d,2020_9
+2020-02-26,0,IE,IE,can't smell,d,2020_9
+2020-02-27,0,IE,IE,can't smell,d,2020_9
+2020-02-28,0,IE,IE,can't smell,d,2020_9
+2020-02-29,0,IE,IE,can't smell,d,2020_9
+2020-03-01,0,IE,IE,can't smell,d,2020_9
+2020-03-02,0,IE,IE,can't smell,d,2020_10
+2020-03-03,0,IE,IE,can't smell,d,2020_10
+2020-03-04,0,IE,IE,can't smell,d,2020_10
+2020-03-05,0,IE,IE,can't smell,d,2020_10
+2020-03-06,0,IE,IE,can't smell,d,2020_10
+2020-03-07,0,IE,IE,can't smell,d,2020_10
+2020-03-08,0,IE,IE,can't smell,d,2020_10
+2020-03-09,81,IE,IE,can't smell,d,2020_11
+2020-03-10,0,IE,IE,can't smell,d,2020_11
+2020-03-11,0,IE,IE,can't smell,d,2020_11
+2020-03-12,0,IE,IE,can't smell,d,2020_11
+2020-03-13,87,IE,IE,can't smell,d,2020_11
+2020-03-14,0,IE,IE,can't smell,d,2020_11
+2020-03-15,0,IE,IE,can't smell,d,2020_11
+2020-03-16,0,IE,IE,can't smell,d,2020_12
+2020-03-17,0,IE,IE,can't smell,d,2020_12
+2020-03-18,0,IE,IE,can't smell,d,2020_12
+2020-03-19,84,IE,IE,can't smell,d,2020_12
+2020-03-20,0,IE,IE,can't smell,d,2020_12
+2020-03-21,0,IE,IE,can't smell,d,2020_12
+2020-03-22,0,IE,IE,can't smell,d,2020_12
+2020-03-23,76,IE,IE,can't smell,d,2020_13
+2020-03-24,78,IE,IE,can't smell,d,2020_13
